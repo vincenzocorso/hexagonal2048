@@ -89,8 +89,8 @@ public interface View {
 	public void setGridSizeButtonAction(ActionListener action);
 
 	/**
-	 * Get the preferred size 
-	 * @param action action to be performed.
+	 * Get the preferred grid size showing a input dialog.
+	 * @return the preferred grid size.
 	 */
 	public int getGridSizePreference();
 }
