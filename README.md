@@ -14,18 +14,25 @@ I made this mainly to practise with Swing framework.
 ## :framed_picture: Screenshot
 
 <p align="center">
-  <img src="meta/hexagonal.gif">
-  <img src="meta/classic.gif">
+  <img src="https://s5.gifyu.com/images/hexagonal.gif">
+  <img src="https://s5.gifyu.com/images/classic.gif">
 </p>
 
 ## :joystick: Keys
 Press Q to move the tiles to the top left.
+
 Press W to move the tiles upward.
+
 Press E to move the tiles to the top right.
+
 Press A to move the tiles to the left.
+
 Press D to move the tiles to the right.
+
 Press Z to move the tiles to the bottom left.
+
 Press X to move the tiles down.
+
 Press C to move the tiles to the bottom right.
 
 ## :computer: How to compile this project
