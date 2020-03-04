@@ -38,6 +38,7 @@ Press C to move the tiles to the bottom right.
 ## :computer: How to compile this project
 From the root folder:
 
+    javac -d ./ src/util/*.java
     javac -d ./ src/model/*.java
     javac -d ./ src/view/*.java
     javac -d ./ src/controller/*.java
