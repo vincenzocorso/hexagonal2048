@@ -14,8 +14,8 @@ I made this mainly to practise with Swing framework.
 ## :framed_picture: Screenshot
 
 <p align="center">
-  <img src="https://s5.gifyu.com/images/hexagonal.gif">
-  <img src="https://s5.gifyu.com/images/classic.gif">
+  <img src="https://github.com/vincenzocorso/hexagonal2048/blob/master/meta/hexagonal.gif">
+  <img src="https://github.com/vincenzocorso/hexagonal2048/blob/master/meta/classic.gif">
 </p>
 
 ## :joystick: Keys
